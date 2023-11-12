@@ -1,0 +1,7 @@
+crispr_gene_fingerprint_cgp.txt filter=lfs diff=lfs merge=lfs -text
+gene_effect.csv filter=lfs diff=lfs merge=lfs -text
+sciadv.abh1275_Table_S8.xlsx filter=lfs diff=lfs merge=lfs -text
+ccl_cna_data_paired_with_tcga.txt filter=lfs diff=lfs merge=lfs -text
+ccl_exp_data_paired_with_tcga.txt filter=lfs diff=lfs merge=lfs -text
+ccl_meth_data_paired_with_tcga.txt filter=lfs diff=lfs merge=lfs -text
+ccl_mut_data_paired_with_tcga.txt filter=lfs diff=lfs merge=lfs -text
